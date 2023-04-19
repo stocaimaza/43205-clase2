@@ -1,0 +1,15 @@
+.product-button {
+    border: none;
+    border-radius: 10px;
+    color: #fafafa;
+    font-size: 1.2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+    cursor: pointer;
+    background: linear-gradient(to left, #44a08d, #093637);
+    transition: all 0.3s;
+}
+
+.product-button:hover {
+    color: #44a08d;
+}
